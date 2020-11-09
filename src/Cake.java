@@ -11,7 +11,7 @@ public class Cake {
 		System.out.println("Yummy!");
 	}
 	
-	public boolean noCake() {
+	public boolean isEmpty() {
 		return bites == 0;
 		//looks like an empty cake
 	}
